@@ -21,3 +21,5 @@ Tein tehtävät 1-5 sekä pyydetyt korjaukset ja kommentoinnit laskin.py ohjelma
 Tehtävässä 5 jouduin useampaan kertaan kokeilemaan, miten saan "Pääsy evätty" tekstin tulostettua ainoastaan 
 viiden väärän yrityksen jälkeen. Päädyin tekemään tälle tulostukselle kokonaan oman if lausekkeen.
 
+# Moduuli 5
+Tein tehtävät 1-4
