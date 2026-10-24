@@ -23,3 +23,6 @@ viiden väärän yrityksen jälkeen. Päädyin tekemään tälle tulostukselle k
 
 # Moduuli 5
 Tein tehtävät 1-4
+
+# Kertaustehtävät
+Tein tehtävät 1-9
