@@ -26,3 +26,7 @@ Tein tehtävät 1-4
 
 # Kertaustehtävät
 Tein tehtävät 1-9
+
+# Moduuli 6
+Tein tehtävät 1-6
+Tehtävää 4 ja 5 kokeiltu erilaisilla kokonaislukulistoilla ja kaikki toimi.
