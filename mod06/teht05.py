@@ -17,3 +17,4 @@ lista = [1,8,9,-5,-2,10]
 # Tulostetaan sekä alkuperäinen lista, että funktion paöauttama lista
 print(lista)
 print (parilliset(lista))
+
